@@ -1,0 +1,55 @@
+.p1 {
+    position: relative;
+    top: 100px;
+    border-style: none;
+    width: 250px;
+    margin-left: 40px;
+
+}
+
+.carte{
+    border-style: solid;
+    width:600px;
+    position: absolute;
+    padding-bottom: 50px;
+}
+
+.barre1{
+    position: relative;
+    bottom: -40px;
+    border-style: solid;
+    width: 0;
+    padding-bottom: 200px;
+    padding-top: 100px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+.cadre1{
+    border-style: solid;
+    width: 130px;
+    padding-top: 170px;
+    margin-left: 450px;
+    margin-top: -290px;
+
+}
+.ligne1{
+    border-style: solid;
+    width: 150px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.ligne2{
+    border-style: solid;
+    width: 150px;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+.ligne3{
+    border-style: solid;
+    width: 150px;
+    margin-left: 400px;
+    margin-top: 40px;
+}
